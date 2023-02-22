@@ -10,7 +10,7 @@ This is a timed coding assessment that tests the user's knowledge on various top
 
 ## Links
 * [Repo](https://github.com/Undrcver/Coding-Quiz)
-* [Webpage](https://undrcver.github.io/Password-Generator/)
+* [Webpage](https://undrcver.github.io/Coding-Quiz/)
 
 ## Languages Used
 -CSS -JavaScript -HTML
